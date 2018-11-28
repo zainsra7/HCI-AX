@@ -1,0 +1,8 @@
+Veg,Age_16_24,Age_25_34,Age_35_44,Age_45_54,Age_55_64,Age_65_74,Age_75,Avg
+None,12,10,11,11,10,6,8,10
+Less than 1 portion,5,4,5,4,4,4,4,4
+1 portion or more but less than 2,22,20,14,16,15,16,14,17
+2 portions or more but less than 3,14,17,15,17,16,16,21,16
+3 portions or more but less than 4,15,16,18,15,18,19,16,17
+4 portions or more but less than 5,9,10,12,12,13,15,16,12
+5 portions or more,23,24,25,25,24,24,21,24
